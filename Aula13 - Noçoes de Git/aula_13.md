@@ -74,6 +74,8 @@ Ponto de Atenção: A idéia é que vamos fazer diversos commits por dia.
 - GIT ADD -A
 - GIT COMMIT -M -"Comentários do que foi fetito"
 - GIT PUSH
+- GIT COMMIT -AM
+- GIT REVERT - NUMERO DO COMMIT
 
 ```
 git status
@@ -82,8 +84,25 @@ git add nome do arquivo
 git add .
 git commit -m "Subir o arquivo"
 git push
+git add -a
+git commit -am
+git revert
+
 ```
 ### Gerenciar as arquivos Desktop
+
+### Atualizar arquivos
+- Objetivo: Capturar atualizações dos arquivos que foram criados no servidor e adicionar localmente;
+- Quando utilizar: Conforme formos trabalhando no dia a dia vamos atualizar nosso repositório para que ele sempre esteja atualizado com os arquivos dos demais usuários;
+- Ponto de atenção: Realizar essa atividade sempre antes de fazer um commit;
+
+- GIT STATUS
+- GIT PULL
+
+```
+git pull
+```
+
 ### COMANDOS TEMPALTE
 ```
 
