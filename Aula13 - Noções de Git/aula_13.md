@@ -95,7 +95,6 @@ git revert
 - Objetivo: Capturar atualizações dos arquivos que foram criados no servidor e adicionar localmente;
 - Quando utilizar: Conforme formos trabalhando no dia a dia vamos atualizar nosso repositório para que ele sempre esteja atualizado com os arquivos dos demais usuários;
 - Ponto de atenção: Realizar essa atividade sempre antes de fazer um commit;
-
 - GIT STATUS
 - GIT PULL
 
@@ -103,10 +102,43 @@ git revert
 git pull
 ```
 
+### Demais Comandos importantes
+- Mudar ramificações.
+- GIT CHECKOUT - Nome da Branch
+- GIT CHECKOUT -B
+- GIT CHECKOUT.
+- GIT CHECKOUT - nome do arquivo
+
+```
+git checkout -b branch-2
+git status
+git add -A
+git checkout -branck
+
+```
+### Validar as alterações
+Objetivo: Analisar diferença de enviar para o servidor;
+Quando utilizar: Analisar as linhas alteradas e conferir oque foi;
+Ponto de atenção: Realizar essa atividade obrigatoriament antes de subir as alterações;
+
+```
+git branch
+git branch -R
+```
+
+# Histórico de alterações;,
+```
+git branch
+git branch -R
+
+git checkout
+git merge 
+```
 ### COMANDOS TEMPALTE
 ```
 
 ```
+
 
 
 
