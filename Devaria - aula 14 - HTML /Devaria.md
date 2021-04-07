@@ -2,7 +2,7 @@
 
 ## Devaria - aula 14 - HTML A base para qualquer sistema web - parte 1
 
-#### Oue é HTML 
+#### O que é HTML 
 - Linguagem de marcação de Hiperterto, É um padrão de linguagem de ara páginas e documentos da internet. Com esse padrão as páginas e são montadas em diversas ferramentas, principalmente os Browsers.
 - Os elementos tem formato de Tags, Toda marcação no HTML é necessário abrir e fechar uma Tag especifica.
 
