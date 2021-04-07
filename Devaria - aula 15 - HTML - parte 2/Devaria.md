@@ -23,7 +23,74 @@
 - Atom
 - Visual Code
 
-## Devaria - aula 15 - HTML - A base para qualquer sistema web - parte 2
+## Devaria - aula 14 - HTML A base para qualquer sistema web - parte 2
+
+### Começando as configurações
+```
+ <!Doctype html> -Indicaçao que é um documento HTML
+ <html lang="pt-br"> Indicação que é a lingua do documento é portugués.
+ <head>
+   <meta charset="utf-8"/> Indicação da codificação de caractes do documento.
+   <title>Olá Munto</title> - Titulo da página 
+ </head>
+ </html>
+```
+
+## Devaria - aula 14 - HTML A base para qualquer sistema web - parte 3
+- Desenvolvendo o cabeçalho
+- Desenvolvendo a Main
+- Desenvolvendo o Footer
+
+#### Desenvolvendo o cabeçalho
+- Marcação de Titulo 
+- Marcação de Navegação
+- Marcação de lista em formato de tópicos
+
+```
+<header>
+ <h1>Olá mundo! Essa é a minha primeira página WEB <h1/>
+ <nav> - Conteúdo de Navegações - Menu
+   <ul> - 
+    <li><a href="index.html"> Home </a> </li>
+    <li><a href="Professores.html"> Professores </a> </li>
+    <li> <a href="FaleConosco.html"> Fale Conosco </a> </li>
+    <li> <a href="DevStars.html"> DevStars </a></li>
+   </ul>
+ </nav>
+</header>
+```
+#### Desenvolvendo a Main
+- Marcação de uma seção
+- Marcação de Imagem
+- Propriedade de largura e altura da imagem
+- Marcação de texto alternativo da imagem.
+```
+<main>
+  <section>
+   <img src="Fotos/fotohome.png" width="500px" height="100px" alt="Foto da Devaria" />
+  </section>
+</main>
+```
+
+#### Desenvolvendo o Footer
+```
+<footer>
+      <section>
+        <br/><br/>
+        <span> contato@devaria.com.br </span> <br/>
+        <span> Conheça o nosso canal do Youtube </span>
+    </section>
+    </footer>
+```
+
+
+
+
+## Devaria - aula 14 - HTML - A base para qualquer sistema web - parte 4
+
+- Header da página de Professores
+- Main da página de professores
+- footer da página de professores
 
 ## Pagína Fale Conosco
 
