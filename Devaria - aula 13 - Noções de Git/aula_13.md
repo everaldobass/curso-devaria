@@ -1,4 +1,4 @@
-# Devaria - Noções de Git
+# Devaria - Noções de Git e GitHub
 
 #### Devaria - aula 13 - Noções de Git - parte 1
 
