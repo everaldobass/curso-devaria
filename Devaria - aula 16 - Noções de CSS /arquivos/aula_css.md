@@ -1,4 +1,4 @@
-# Devaria - aula 16 - Noções de CSS - Parte 1
+# Devaria - Aula 16 - Noções de CSS - Parte 1
 ```
 https://github.com/devaria-oficial
 ```
